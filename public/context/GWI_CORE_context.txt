@@ -1,0 +1,100 @@
+# GWI CORE - Contexto Procesado
+# Fuente: GWI_Travel.pdf
+# Segmentos: 1
+# Procesado: 2025-07-02 08:52:55
+
+## 📋 Índice de Contenidos
+
+ 1. Media module are invited to take part. This means that the questions listed in this document can be ...
+
+================================================================================
+
+## 📄 Segmento 1
+
+Media
+module
+are
+invited
+to
+take
+part.
+This
+means
+that
+the
+questions
+listed
+in
+this
+document
+can
+be
+used
+alongside
+most
+GWI
+Core
+questions.
+These
+GWI
+Core
+questions
+are
+appended
+to
+GWI
+Travel
+and
+are
+usable
+only
+directly
+from
+the
+GWI
+Travel
+taxonomy
+in
+our
+platform.
+More
+details
+about
+the
+sample
+sizes,
+markets
+and
+methodology
+of
+GWI
+Travel
+can
+be
+found
+in
+this
+help
+center
+article
+.
+Demographics
+Demographics
+Gender
+Which
+of
+the
+following
+best
+describes
+your
+gender?
+
+------------------------------------------------------------
+
+---
+
+**📊 Estadísticas:**
+- Total segmentos: 1
+- Caracteres totales: 468
+- Procesado de: GWI_Travel.pdf
