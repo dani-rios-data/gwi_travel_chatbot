@@ -291,32 +291,27 @@ What specific travel insight would you like me to analyze?`;
   return (
     <div className="app">
       <header className="header">
-        <div className="left-section">
-          <div className="robot-section">
-            <img 
-              src="/images/3D_AI_front_view.png" 
-              alt="GWI Travel Bot" 
-              className="robot-image"
-            />
-            <div className="status-section">
-              <div className="status-dot"></div>
-              <span>Online</span>
-            </div>
+        <div className="logo-section">
+          <div className="tbwa-section">
+            <img src="/images/logo_tbwa_white.svg" alt="TBWA Logo" className="tbwa-logo" />
           </div>
           <div className="divider"></div>
-          <div className="tbwa-section">
-            <img src="/logo_tbwa_white.svg" alt="TBWA Logo" className="tbwa-logo" />
+          <div className="gwi-section">
+            <img 
+              src="https://cdn.brandfetch.io/idB_IK0frl/w/1280/h/960/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"
+              alt="GWI Logo"
+              className="gwi-logo"
+            />
+            <div>
+              <div className="gwi-title">Travel Insights</div>
+              <div className="core-subtitle">Tourism Analytics Assistant</div>
+            </div>
           </div>
         </div>
-        <div className="gwi-section">
-          <img 
-            src="https://cdn.brandfetch.io/idB_IK0frl/w/1280/h/960/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"
-            alt="GWI Logo"
-            className="gwi-logo"
-          />
-          <div>
-            <div className="gwi-title">Travel Insights</div>
-            <div className="core-subtitle">Tourism Analytics Assistant</div>
+        <div className="robot-section">
+          <div className="status-section">
+            <div className="status-dot"></div>
+            <span>Online</span>
           </div>
         </div>
       </header>
@@ -393,6 +388,14 @@ What specific travel insight would you like me to analyze?`;
 
         <div className="input-container">
           <div className="input-area">
+            <div className="input-robot-section">
+              <img 
+                src="/images/3D_AI_front_view.png" 
+                alt="GWI Travel Bot" 
+                className="input-robot-image"
+              />
+            </div>
+            
             <div className="input-wrapper">
               <textarea
                 value={inputMessage}
@@ -418,14 +421,6 @@ What specific travel insight would you like me to analyze?`;
                   Send
                 </button>
               </div>
-            </div>
-            
-            <div className="input-robot-section">
-              <img 
-                src="/images/3D_AI_front_view.png" 
-                alt="GWI Travel Bot" 
-                className="input-robot-image"
-              />
             </div>
           </div>
         </div>
